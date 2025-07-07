@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/743/891/712/starry-sky-4k-8k-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#title{
+    color:rgb(54, 220, 39);
+    background-color:black;
+    margin-left: 500px;
+    padding:25px;
+    width: fit-content;
+    border-radius: 10px;
+    font-size:40px;
+    text-align: center;
+    align-items: center;
+
+}
+.cont1{
+  
+
+    margin-left: 600px;
+    padding:30px;
+    color:blue;
+    background-color: black;
+    width:300px;
+    text-align: center;
+    justify-content: center;
+    font-size: 35px;
+    height: 140px;
+     border-radius: 10px;
+      
+}
+#textnum {
+  font-size: 15px;
+  padding: 10px;
+  width: 60%;
+  margin: 10px;
+}
+
+#mysubmit {
+ background-color: rgb(223, 227, 90);
+  font-size: 18px;
+  color: red;
+  padding: 7px;
+  cursor: pointer;
+}
+.final{
+   padding: 10px;
+    margin-left:430px;
+    font-size: 40px;
+   
+}
+#result{
+    font-size: 45px;
+    color: whitesmoke;
+
+}
